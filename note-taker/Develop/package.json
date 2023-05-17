@@ -1,0 +1,15 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "fs": "0.0.1-security",
+    "uuid": "^8.3.2",
+    "sequelize": "^6.12.0",
+    "sqlite3": "^5.0.2"
+  }
+}
